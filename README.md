@@ -11,3 +11,7 @@ Clean Code from Uncle Bob should be considered but with some caveats. This post 
 although this book writes about more general high-level subjects. 
 
 [This repository](https://github.com/google/eng-practices) contains good engineering practices from Google.
+
+
+## Design Patterns
+Head First Design Patterns is a good introduction to this subject. It explains the patterns in a funny and intelligible way. 
