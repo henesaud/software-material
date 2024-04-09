@@ -14,4 +14,8 @@ although this book writes about more general high-level subjects.
 
 
 ## Design Patterns
-Head First Design Patterns is a good introduction to this subject. It explains the patterns in a funny and intelligible way. 
+Head First Design Patterns is a good introduction to this subject. It explains the patterns in a funny and intelligible way. Another excelent book is, of course, Design Patterns: Elements of Reusable Object-Oriented Software.
+
+## Programing languages
+### Go
+The Go Programming Language is a excelent book if you already knows how to program. 
