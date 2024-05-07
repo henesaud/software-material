@@ -20,3 +20,5 @@ Head First Design Patterns is a good introduction to this subject. It explains t
 ### Go
 The Go Programming Language is a excelent book if you already knows how to program. 
 To write effective Go, visit [this link](https://go.dev/doc/effective_go).
+
+The best course I have found is [Go Class](https://www.youtube.com/watch?v=iDQAZEJK8lI&list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6).
