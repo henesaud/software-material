@@ -22,3 +22,5 @@ The Go Programming Language is a good book if you already knows how to program.
 To write effective Go, visit [this link](https://go.dev/doc/effective_go).
 
 The best course I have found is, by far, [Go Class](https://www.youtube.com/watch?v=iDQAZEJK8lI&list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6).
+
+[This Link](https://github.com/ardanlabs/gotraining/tree/master/reading#interviews) contains usefull material for Go and software in general. 
