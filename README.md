@@ -25,8 +25,12 @@ The best course I have found is, by far, [Go Class](https://www.youtube.com/watc
 
 [This Link](https://github.com/ardanlabs/gotraining/tree/master/reading#interviews) contains usefull material for Go and software in general. 
 
+If you want to use Port & Adaptors (a.k.a hexagonal) architecture, [this link](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html) has a good explanation about it.
+
 
 ## Computer Architecture & OS & Network
-Here are some importante material about these subjects:
+Here are some important material about these subjects:
 
 [Core Dumped](https://www.youtube.com/@CoreDumpped)
+
+[PowerCert](https://www.youtube.com/@PowerCertAnimatedVideos)
