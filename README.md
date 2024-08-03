@@ -28,6 +28,13 @@ If you want to use Port & Adaptors (a.k.a hexagonal) architecture, [this link](h
 
 The [Uber Guide](https://github.com/uber-go/guide) contains an excellent guide on writing go code. 
 
+DDD with go:
+[Repository](https://www.ompluscator.com/article/golang/practical-ddd-domain-repository/?source=post_page-----d308c9d79ba7--------------------------------);
+[Value Object](https://www.ompluscator.com/article/golang/practical-ddd-value-object/?source=post_page-----4fc97bcad70--------------------------------); 
+[Entity](https://www.ompluscator.com/article/golang/practical-ddd-entity/?source=post_page-----40d32bdad2a3--------------------------------); 
+[Domain Service](https://www.ompluscator.com/article/golang/practical-ddd-domain-service/?source=post_page-----4418a1650274--------------------------------)
+
+
 ## Computer Architecture & OS & Network
 Here are some important material about these subjects:
 
