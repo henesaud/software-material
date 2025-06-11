@@ -41,3 +41,8 @@ Here are some important material about these subjects:
 [Core Dumped](https://www.youtube.com/@CoreDumpped)
 
 [PowerCert](https://www.youtube.com/@PowerCertAnimatedVideos)
+
+
+## General:
+
+[The Coding Gopher](https://www.youtube.com/@TheCodingGopher)
